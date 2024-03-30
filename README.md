@@ -10,7 +10,8 @@ To run the web scraper, make sure you have the following modules installed:
 - [Requests](https://pypi.org/project/requests/)
 
 You can install them using pip:
-```pip install beautifulsoup4 requests
+```
+pip install beautifulsoup4 requests
 ```
 
 ## ▶️ Usage
@@ -19,7 +20,7 @@ You can install them using pip:
 ```
 git clone https://github.com/fadzwanashriq/israel_product_webscraper
 ```
-2. Navigate to the project directory:\
+2. Navigate to the project directory
 ```
 cd israel_product_webscraper
 ```
