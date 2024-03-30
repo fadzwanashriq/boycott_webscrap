@@ -24,7 +24,7 @@ class ProductScraper:
                             link = link.replace("/target/","")
                             self.output += f"{link}\n"
 
-        with open("output.txt", "w") as file:
+        with open("product.txt", "w") as file:
             file.write(self.output)
 
     def scrape_product_details(self):
@@ -45,7 +45,7 @@ class ProductScraper:
                 if search_term.lower() == product_name.lower():
                     about_product = soup.find("div", class_="m-4081bf90 mantine-Group-root").text.strip()
                     why_boycott = soup.find("div", class_="m-599a2148 mantine-Card-section Listing_section__Pz_36").text.strip()
-                    more = soup.find("span", class_="mantine-focus-auto m-b6d8b162 mantine-Text-root").text.strip()
+                    more_info = soup.find("span", class_="mantine-focus-auto m-b6d8b162 mantine-Text-root").text.strip()
 
                     boycott = True  # continue your logic here
 
@@ -54,7 +54,7 @@ class ProductScraper:
                         "boycott": boycott,
                         "about": about_product,
                         "why_boycott": why_boycott,
-                        "more": more
+                        "more_info": more_info
                     }
                     self.results.append(result)
 
@@ -65,7 +65,7 @@ class ProductScraper:
                     "boycott": boycott,
                     "about": "",
                     "why_boycott": "",
-                    "more": ""
+                    "more_info": ""
                 }
 
                 self.results.append(result)
