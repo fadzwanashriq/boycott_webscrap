@@ -1,52 +1,59 @@
 [
     {
-        "product_name": "Nestle",
+        "product_name": "7up",
         "boycott": true,
-        "about": "NestleNestle is the largest public food company in the world.fooddrinks",
-        "why_boycott": "Osem is an israeli food manufacturer which operates in Occupied Palestine. Nestle owns a controlling stake in Osem.",
-        "more": "Avoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra Salads and others which can be found via the wikipedia page in the source."
+        "about": "7upSoft drink, a distributed internationally by PepsiCodrinks",
+        "why_boycott": "The international distributer of 7up, PepsiCo, bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+        "more": "Don't buy 7up products.Don't sell 7up productsDon't work for the PepsiCo Company"
     },
     {
-        "product_name": "Milo",
-        "boycott": false,
-        "about": "",
-        "why_boycott": "",
-        "more": ""
+        "product_name": "Actimel",
+        "boycott": true,
+        "about": "ActimelFood brand owned by Danone.fooddrinks",
+        "why_boycott": "The owner of Actimel, Danone, invests millions into the israeli food start up scene.",
+        "more": "Don't buy Actimel products.Don't sell Actimel products.Don't work for Actimel."
     },
     {
-        "product_name": "HP",
+        "product_name": "Activia",
         "boycott": true,
-        "about": "HPIT company who develop hardware and software for consumers, enterprise and government.technology",
-        "why_boycott": "Hewlett Packard runs the biometric ID system that Israel uses to restrict Palestinian movement as well as other systems for the IDF.",
-        "more": "Avoid buying HP products.Don't work for HP."
+        "about": "ActiviaFood brand owned by Danone.fooddrinks",
+        "why_boycott": "The owner of Activia, Danone, invests millions into the israeli food start up scene.",
+        "more": "Don't buy Activia products.Don't sell Activia products.Don't work for Danone."
     },
     {
-        "product_name": "Siemens",
+        "product_name": "Adidas",
         "boycott": true,
-        "about": "SiemensA technology company that builds smart infrastructure, medical equipment, and appliances amongst other engineered products.technology",
-        "why_boycott": "Siemens is deeply involved in the building of israeli infrastructure with billions in contracts. Siemens also invests in israeli companies.",
-        "more": "Don't buy Siemens products.Don't work for Siemens."
+        "about": "AdidasGerman sportswear brand.clothing",
+        "why_boycott": "Adidas uses israeli manufacturer, Delta Galil, to manufacture its underwear range.",
+        "more": "Don't buy Adidas products.Don't sell Adidas products.Don't work for Adidas."
     },
     {
-        "product_name": "AXA",
+        "product_name": "Aerin",
         "boycott": true,
-        "about": "AXAAXA is a French multinational insurance firm.insurancefinance",
-        "why_boycott": "AXA continues to invest in Israeli banks which are complicit in Israels occupation and apartheid in Palestine.",
-        "more": "Don't take insurance from Axa.If you already have AXA insurance, switch as soon as you can.Don't work for AXA."
+        "about": "AerinCosmetics company, owned by Estee Lauder.cosmetics",
+        "why_boycott": "Aerin is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land.",
+        "more": "Don't buy products from Aerin.Don't work for Estee Lauder brands."
     },
     {
-        "product_name": "Puma",
+        "product_name": "Aero",
         "boycott": true,
-        "about": "PumaPuma is a German sportswear manufacturer and retailer sponsors athletes and teams in various sports.fashion",
-        "why_boycott": "Puma is the main sponsor of the Israel Football Association (IFA), which includes teams in Israel\u2019s illegal settlements on occupied Palestinian land.",
-        "more": "Don't buy Puma products until they stop sponsoring IFA and Israeli teams opperating in illegal settlements.Don't work for Puma."
+        "about": "AeroAero is a confectionary brand owned by Nestle.food",
+        "why_boycott": "The owner of the Aero brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Aero productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
     },
     {
-        "product_name": "SodaStream",
+        "product_name": "Aesop",
         "boycott": true,
-        "about": "SodaStreamIsrael-based consumer home carbonation brand.drinksmanufacturerhousehold",
-        "why_boycott": "SodaStream is an Israeli company which manufactured its products in Occupied Palestine. Now owned by Pepsico after a $3.2b acquisition. It since moved its factory from the West Bank to main Israel, however is still subject to boycott for its firing of 60 Palestinian workers and dark history.",
-        "more": "Don't buy Sodastream devices.Don't sell Sodastream devices."
+        "about": "AesopBeauty brand, owned by L'Oreal.cosmetics",
+        "why_boycott": "Aesop is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+        "more": "Don't buy Aesop productsDon't sell Aesop productsDon't work for L'Oreal Groupe"
+    },
+    {
+        "product_name": "Agoda",
+        "boycott": true,
+        "about": "AgodaAgoda is a website owned by Booking Holdings.technologytravel",
+        "why_boycott": "Booking.com, whos parent company Booking Holdings owns Agoda, allows listings in occupied Palestinian territory, and after initially deciding to add a label to properties which are in occupied territory, reversed that move under pressure from Israel.",
+        "more": "Don't book on Agoda.Book directly with businesses. They usually offer discounts and similar terms for direct bookings.Don't list your services on Agoda.Don't work for Booking Holdings"
     },
     {
         "product_name": "Ahava",
@@ -56,18 +63,536 @@
         "more": "Don't buy Ahava products.Don't sell Ahava products."
     },
     {
-        "product_name": "Sabra",
+        "product_name": "Airbnb",
         "boycott": true,
-        "about": "SabraNestle is the largest public food company in the world.food",
-        "why_boycott": "Osem is an israeli food manufacturer which operates in Occupied Palestine. Nestle owns a controlling stake in Osem.",
-        "more": "Avoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra Salads and others which can be found via the wikipedia page in the source."
+        "about": "AirbnbAirbnb is a platform for renting out properties.technologytravel",
+        "why_boycott": "Airbnb allows listings in occupied Palestinian territory, and after announcing it will remove 200 of such listings, it reversed its decision, showing it is knowingly complicit in Israels occupation.",
+        "more": "Don't rent property on Airbnb.Don't list property on Airbnb.Delete the Airbnb app.Don't work for Airbnb."
     },
     {
-        "product_name": "Intel",
+        "product_name": "Airwaves",
         "boycott": true,
-        "about": "IntelComputer technology companytechnology",
-        "why_boycott": "Intel Invests heavily in israel including in towns stolen from Palestinians",
-        "more": "Don't use Intel productsDon't work for IntelIf you are a company decision maker, find alternatives to Intel products"
+        "about": "AirwavesAirwaves is a chewing gum brand owned by Mars.food",
+        "why_boycott": "The owner of Airwaves, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy Airwaves products.Don't sell Airwaves products.Don't work for Mars."
+    },
+    {
+        "product_name": "Alpro",
+        "boycott": true,
+        "about": "AlproFood brand owned by Danone.fooddrinks",
+        "why_boycott": "The owner of Alpro, Danone, invests millions into the israeli food start up scene.",
+        "more": "Don't buy Alpro products.Don't sell Alpro products.Don't work for Alpro."
+    },
+    {
+        "product_name": "Always",
+        "boycott": true,
+        "about": "AlwaysPersonal care products.healthcare",
+        "why_boycott": "Always is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Always productsDon't sell Always productsDon't work for Always"
+    },
+    {
+        "product_name": "Amazon",
+        "boycott": true,
+        "about": "AmazonComputer technology companytechnology",
+        "why_boycott": "Amazon is investing $7.2bn in data centers in israel via AWS",
+        "more": "Don't spend money on amazon products including AWSDo not work for AmazonDo not buy Kindle books and other content from AmazonCancel your Amazon prime membership"
+    },
+    {
+        "product_name": "Ambipur",
+        "boycott": true,
+        "about": "AmbipurHousehold cleaning products.household",
+        "why_boycott": "Ambipur is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Ambipur productsDon't sell Ambipur productsDon't work for Ambipur"
+    },
+    {
+        "product_name": "Amika",
+        "boycott": true,
+        "about": "AmikaHair care brand.cosmeticshealthcare",
+        "why_boycott": "Manufactured on occupied Palestinian land.",
+        "more": "Don't buy Amika productsDon't sell Amika products"
+    },
+    {
+        "product_name": "Appletiser",
+        "boycott": true,
+        "about": "AppletiserSoft drink brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Appletiser, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Appletiser.Don't sell AppletiserDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Aptamil",
+        "boycott": true,
+        "about": "AptamilMilk brand owned by Danone.fooddrinks",
+        "why_boycott": "The owner of Aptamil, Danone, invests millions into the israeli food start up scene.",
+        "more": "Don't buy Aptamil products.Don't sell Aptamil products.Don't work for Aptamil."
+    },
+    {
+        "product_name": "Aquafina",
+        "boycott": true,
+        "about": "AquafinaWater brand owned by PepsiCodrinks",
+        "why_boycott": "The owner of Aquafina, PepsiCo, bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+        "more": "Don't buy Aquafina products.Don't sell Aquafina productsDon't work for the PepsiCo Company"
+    },
+    {
+        "product_name": "Aquarius",
+        "boycott": true,
+        "about": "AquariusWater brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Aquarius, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Aquarius.Don't sell AquariusDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Aramis",
+        "boycott": true,
+        "about": "AramisCosmetics company, owned by Estee Lauder.cosmetics",
+        "why_boycott": "Aramis is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land.",
+        "more": "Don't buy products from Aramis.Don't work for Estee Lauder brands."
+    },
+    {
+        "product_name": "Ariel",
+        "boycott": true,
+        "about": "ArielHousehold cleaning products.household",
+        "why_boycott": "Ariel is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Ariel productsDon't sell Ariel productsDon't work for Ariel"
+    },
+    {
+        "product_name": "Arwa",
+        "boycott": true,
+        "about": "ArwaWater brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Arwa, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Arwa.Don't sell ArwaDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Aussie",
+        "boycott": true,
+        "about": "AussieHair care brand.cosmeticshealthcare",
+        "why_boycott": "Aussie is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy aussie productsDon't sell aussie productsDon't work for aussie"
+    },
+    {
+        "product_name": "Aviva",
+        "boycott": true,
+        "about": "AvivaBritains largest general insurer and a leading life and pensions provider.financeinsurance",
+        "why_boycott": "Aviva invests in companies selling arms and military equipment to Israel that have been used in the oppression of Palestinians",
+        "more": "Don't keep your pension with Aviva.Don't use Aviva insurance products.Don't work for Aviva."
+    },
+    {
+        "product_name": "AXA",
+        "boycott": true,
+        "about": "AXAAXA is a French multinational insurance firm.insurancefinance",
+        "why_boycott": "AXA continues to invest in Israeli banks which are complicit in Israels occupation and apartheid in Palestine.",
+        "more": "Don't take insurance from Axa.If you already have AXA insurance, switch as soon as you can.Don't work for AXA."
+    },
+    {
+        "product_name": "Axe",
+        "boycott": true,
+        "about": "AxeDeodorant brand.healthcarecosmetics",
+        "why_boycott": "Axe is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.",
+        "more": "Don't buy Axe products.Don't sell Axe productsDon't work for Unilever"
+    },
+    {
+        "product_name": "Bally",
+        "boycott": true,
+        "about": "BallyFashion brand owned by JAB Holdings which is owned by the Reimann family.fashionclothing",
+        "why_boycott": "The owners of Bally, the Reimann family are staunch zionists and support the zionist state with investment and donations through their Alfred Landecker Foundation.",
+        "more": "Don't eat from Bally.Don't work for Bally."
+    },
+    {
+        "product_name": "Barbican",
+        "boycott": true,
+        "about": "BarbicanMalt drink brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Barbican, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Barbican.Don't sell BarbicanDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Barclays",
+        "boycott": true,
+        "about": "BarclaysBritish multinational universal bank, headquartered in London.insurancefinance",
+        "why_boycott": "Barclays invests in companies selling arms and military equipment to Israel that have been used in the oppression of Palestinians",
+        "more": "Don't bank with Barclays.Close your Barclays accounts.Don't use Barclays lending options.Cancel your Barclaycard.Don't work for Barclays."
+    },
+    {
+        "product_name": "Belvita",
+        "boycott": true,
+        "about": "BelvitaBelvita is a food brand owned by Mondelezfood",
+        "why_boycott": "The owner of Belvita, Mondelez, invests in Israeli start ups in Occupied Palestine.",
+        "more": "Don't buy Belvita products.Don't sell Belvita productsDon't work for Mondelez"
+    },
+    {
+        "product_name": "BIOTHERM",
+        "boycott": true,
+        "about": "BIOTHERMBeauty brand, owned by L'Oreal.cosmetics",
+        "why_boycott": "BIOTHERM is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+        "more": "Don't buy BIOTHERM productsDon't sell BIOTHERM productsDon't work for L'Oreal Groupe"
+    },
+    {
+        "product_name": "Boeing",
+        "boycott": true,
+        "about": "BoeingBoeing is responsible for military and aerospace products and services.weaponsmanufacturer",
+        "why_boycott": "Provides Israel with Hellfire missiles, F-15 Eagle fighter jets, MK84 2000-lb bombs and Apache helicopters.",
+        "more": "Don't work for Boeing"
+    },
+    {
+        "product_name": "Bold",
+        "boycott": true,
+        "about": "BoldHousehold cleaning products.household",
+        "why_boycott": "Bold is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Bold productsDon't sell Bold productsDon't work for Bold"
+    },
+    {
+        "product_name": "Bomaja",
+        "boycott": true,
+        "about": "BomajaDates brand which is owned by an israeli entity, operating on stolen Palestinian land.fooddates",
+        "why_boycott": "Bomaja is an israeli brand which sells dates grown on stolen Palestinian land.",
+        "more": "Don't buy dates from this brand.Ask businesses to stop selling this brandOnly buy Medjoul dates from confirmed Palestinian owned businessesBuy other variants of dates besides Medjoul if you can't confirm the origin"
+    },
+    {
+        "product_name": "Bounty",
+        "boycott": true,
+        "about": "BountyBounty is a confectionary brand owned by Mars.food",
+        "why_boycott": "The owner of Bounty, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy Bounty products.Don't sell Bounty products.Don't work for Mars."
+    },
+    {
+        "product_name": "Braun",
+        "boycott": true,
+        "about": "BraunPersonal care products.healthcare",
+        "why_boycott": "Braun is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Braun productsDon't sell Braun productsDon't work for Braun"
+    },
+    {
+        "product_name": "Buxton",
+        "boycott": true,
+        "about": "BuxtonBuxton is a water brand owned by Nestle.food",
+        "why_boycott": "The owner of the Buxton brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Buxton productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Cadbury",
+        "boycott": true,
+        "about": "CadburyCadbury is a food brand owned by Mondelezfood",
+        "why_boycott": "The owner of Cadbury, Mondelez, invests in Israeli start ups in Occupied Palestine.",
+        "more": "Don't buy Cadbury products.Don't sell Cadbury productsDon't work for Mondelez"
+    },
+    {
+        "product_name": "Carnation",
+        "boycott": true,
+        "about": "CarnationCarnation is a dessert ingredients brand owned by Nestle.food",
+        "why_boycott": "The owner of the Carnation brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Carnation productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Carrefour",
+        "boycott": true,
+        "about": "CarrefourInternational supermarketfooddrinkshouseholdclothingsupermarket",
+        "why_boycott": "Carrefour made huge investments into Israel last year, opening 50 stores and is planning to open a further 100 by 2024.",
+        "more": "Don't shop at Carrefour supermarkets.Don't work for Carrefour."
+    },
+    {
+        "product_name": "Caterpillar",
+        "boycott": true,
+        "about": "CaterpillarHeavy machinery manufacturer, which also manufactures footwear and clothing.manufacturerclothing",
+        "why_boycott": "Caterpillar bulldozers have been used in the demolition of Palestinian homes. The D9 bulldozer was specifically designed for the IDF.",
+        "more": "Don't buy Caterpillar clothes or machinery.Don't sell Caterpillar clothes or machinery.Don't work for Caterpillar."
+    },
+    {
+        "product_name": "Catsan",
+        "boycott": true,
+        "about": "CatsanCatsan is a petcare brand which is owned by Mars.petcare",
+        "why_boycott": "The owner of Catsan, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy Catsan products.Don't sell Catsan products.Don't work for Mars."
+    },
+    {
+        "product_name": "Celebrations",
+        "boycott": true,
+        "about": "CelebrationsCelebrations is a confectionary brand owned by Mars.food",
+        "why_boycott": "The owner of Celebrations, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy Celebrations products.Don't sell Celebrations products.Don't work for Mars."
+    },
+    {
+        "product_name": "Celine",
+        "boycott": true,
+        "about": "CelineA fashion brand owned by Bernard Arnaults company, LVMHfashionclothingcosmetics",
+        "why_boycott": "The owner of Celine's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
+        "more": "Don't buy Celine productsDon't sell Celine productsDon't work for Celine or LVMH"
+    },
+    {
+        "product_name": "Cerave",
+        "boycott": true,
+        "about": "CeraveSkincare brand owned by L'Orealcosmetics",
+        "why_boycott": "Cerave is owned by L'Oreal. L'Oreal is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+        "more": "Don't buy Cerave productsDon't sell Cerave productsDon't work for L'Oreal"
+    },
+    {
+        "product_name": "Chanel",
+        "boycott": true,
+        "about": "ChanelFrench luxury fashion house in Paris. It is privately owned by the Wertheimer family.cosmeticsclothingfashion",
+        "why_boycott": "Alain Wertheimer, condemned the attack on Israel but remained silent on the attacks on Gaza, also pledged $4m in Chanel's name.",
+        "more": "Don't buy Chanel clothing, make up, shoes, perfumes, bags or any other products.Don't sell Chanel products.Don't work for Chanel."
+    },
+    {
+        "product_name": "Charmin",
+        "boycott": true,
+        "about": "CharminCleaning products.household",
+        "why_boycott": "Charmin is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Charmin productsDon't sell Charmin productsDon't work for P&G"
+    },
+    {
+        "product_name": "Cheapflights",
+        "boycott": true,
+        "about": "CheapflightsCheapflights is a website owned by Booking Holdings.technologytravel",
+        "why_boycott": "Booking.com, whos parent company Booking Holdings owns Cheapflights, allows listings in occupied Palestinian territory, and after initially deciding to add a label to properties which are in occupied territory, reversed that move under pressure from Israel.",
+        "more": "Don't book on Cheapflights.Book directly with businesses. They usually offer discounts and similar terms for direct bookings.Don't list your services on Cheapflights.Don't work for Booking Holdings"
+    },
+    {
+        "product_name": "Cheerios",
+        "boycott": true,
+        "about": "CheeriosCheerios is a breakfast cereal owned by Nestle.food",
+        "why_boycott": "The owner of the Cheerios brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Cheerios productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Cheetos",
+        "boycott": true,
+        "about": "CheetosSnack brand owned by PepsiCofood",
+        "why_boycott": "The owner of Cheetos, PepsiCo, bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+        "more": "Don't buy Cheetos products.Don't sell Cheetos productsDon't work for the PepsiCo Company"
+    },
+    {
+        "product_name": "Cif",
+        "boycott": true,
+        "about": "CifHousehold cleaning products.household",
+        "why_boycott": "Cif is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.",
+        "more": "Don't buy Cif products.Don't sell Cif productsDon't work for Unilever"
+    },
+    {
+        "product_name": "Clinique",
+        "boycott": true,
+        "about": "CliniqueCosmetics company, owned by Estee Lauder.cosmetics",
+        "why_boycott": "Clinique is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land.",
+        "more": "Don't buy products from the vast catalogue of Estee Lauder.Brands include MAC cosmetics, Clinique, Bobbi Brown, Jo Malone, La Mer, Tom Ford Beauty and many more.Don't work for Estee Lauder brands."
+    },
+    {
+        "product_name": "Comfort",
+        "boycott": true,
+        "about": "ComfortLaundry detergent range.household",
+        "why_boycott": "Comfort is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.",
+        "more": "Don't buy Comfort products.Don't sell Comfort productsDon't work for Unilever"
+    },
+    {
+        "product_name": "Coty",
+        "boycott": true,
+        "about": "CotyBeauty conglomerate owned by JAB Holdings which is owned by the Reimann family.fashionclothingcosmetics",
+        "why_boycott": "The owners of Coty, the Reimann family are staunch zionists and support the zionist state with investment and donations through their Alfred Landecker Foundation.",
+        "more": "Don't buy from Coty brands.Don't work for Coty."
+    },
+    {
+        "product_name": "Curver",
+        "boycott": true,
+        "about": "CurverResin and plastic household products such as baskets and containers.household",
+        "why_boycott": "The parent company of Curver operated facilities in the Occupied West Bank's Barkan Industrial Estate. After boycott pressure it seems to have closed the facility, however its history of complicity in the occupation means it should still be boycotted.",
+        "more": "Don't buy Curver products.Don't sell Curver products."
+    },
+    {
+        "product_name": "Daim",
+        "boycott": true,
+        "about": "DaimDaim is a food brand owned by Mondelezfood",
+        "why_boycott": "The owner of Daim, Mondelez, invests in Israeli start ups in Occupied Palestine.",
+        "more": "Don't buy Daim products.Don't sell Daim productsDon't work for Mondelez"
+    },
+    {
+        "product_name": "Danone",
+        "boycott": true,
+        "about": "DanoneFrench dairy food company.fooddrinks",
+        "why_boycott": "Danone invests millions into the israeli food start up scene.",
+        "more": "Don't buy Danone products.Don't sell Danone products.Don't work for danone."
+    },
+    {
+        "product_name": "Delilah",
+        "boycott": true,
+        "about": "DelilahDates brand which is owned by an israeli entity, operating on stolen Palestinian land.fooddates",
+        "why_boycott": "Delilah is an israeli brand which sells dates grown on stolen Palestinian land.",
+        "more": "Don't buy dates from this brand.Ask businesses to stop selling this brandOnly buy Medjoul dates from confirmed Palestinian owned businessesBuy other variants of dates besides Medjoul if you can't confirm the origin"
+    },
+    {
+        "product_name": "Dell",
+        "boycott": true,
+        "about": "DellComputer technology companytechnology",
+        "why_boycott": "Michael Dell, the founder of Dell, is a member of the Friends of the IDF, which raises money for the Israeli military. He has donated millions so far and continues to do so.",
+        "more": "Don't buy Dell productsDon't sell Dell productsIf you are a company decision maker, find alternatives to Dell products"
+    },
+    {
+        "product_name": "Dine",
+        "boycott": true,
+        "about": "DineDine is a petcare brand which is owned by Mars.petcare",
+        "why_boycott": "The owner of Dine, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy Dine products.Don't sell Dine products.Don't work for Mars."
+    },
+    {
+        "product_name": "DKNY",
+        "boycott": true,
+        "about": "DKNYA fashion brand owned by Bernard Arnaults company, LVMHfashionclothingcosmetics",
+        "why_boycott": "The owner of DKNY's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
+        "more": "Don't buy DKNY productsDon't sell DKNY productsDon't work for DKNY or LVMH"
+    },
+    {
+        "product_name": "Disney",
+        "boycott": true,
+        "about": "DisneyThe Walt Disney Company, commonly known as Disney, is an American multinational mass media and entertainment conglomerate entertainmenttechnologymedia",
+        "why_boycott": "Disney made an official announcement that it will be pledging $2m and further initiatives to support Israel. Whilst the CEO explicitly condemned attacks on Jews in Israel, he made no mention of the Palestinian people who are being killed by the Israeli military.",
+        "more": "Don't work for Disney.Don't subscribe to Disney+Cancel Disney+ if you have itDon't watch Disney movies.Don't visit Disney theme parks.Don't buy Disney merchandise.Don't watch Disney TV shows."
+    },
+    {
+        "product_name": "Dogadan",
+        "boycott": true,
+        "about": "DogadanBeverage brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Dogadan, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Dogadan.Don't sell DogadanDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Dolmio",
+        "boycott": true,
+        "about": "DolmioDolmio is a food brand which is owned by Mars.food",
+        "why_boycott": "The owner of Dolmio, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy Dolmio products.Don't sell Dolmio products.Don't work for Mars."
+    },
+    {
+        "product_name": "Domestos",
+        "boycott": true,
+        "about": "DomestosHousehold cleaning products.household",
+        "why_boycott": "Domestos is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.",
+        "more": "Don't buy Domestos products.Don't sell Domestos productsDon't work for Unilever"
+    },
+    {
+        "product_name": "Doritos",
+        "boycott": true,
+        "about": "DoritosBrand of flavoured tortilla snacks, a wholly owned subsidiary of PepsiCofood",
+        "why_boycott": "The owner of Doritos, PepsiCo, bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+        "more": "Don't buy Doritos products.Don't sell Doritos productsDon't work for the PepsiCo Company"
+    },
+    {
+        "product_name": "Dove",
+        "boycott": true,
+        "about": "DoveSkincare brand owned by Unilever.healthcarecosmetics",
+        "why_boycott": "Dove is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.",
+        "more": "Don't buy Dove products.Don't sell Dove productsDon't work for Unilever"
+    },
+    {
+        "product_name": "Evian",
+        "boycott": true,
+        "about": "EvianWater brand owned by Danone.fooddrinks",
+        "why_boycott": "The owner of Evian, Danone, invests millions into the israeli food start up scene.",
+        "more": "Don't buy Evian products.Don't sell Evian products.Don't work for Evian."
+    },
+    {
+        "product_name": "Facebook",
+        "boycott": true,
+        "about": "FacebookFacebook is owned by Meta which is a tech company that also owns Instagram, Whatsapp and other social platforms.technology",
+        "why_boycott": "Meta has been censoring Palestinian, pro-Palestinian, and neutral content which shows the reality of the israeli genocide of gaza which started in October 2023. They have removed content, closed or blocked accounts, and their ai tools for moderating content have shown pro-israel bias, and anti-Palestinian bias.",
+        "more": "Do not advertise with MetaDo not click ads on Meta sites ie Facebook and InstagramDo not pay for other Meta productsKeep pro-Palestinian content prevalent on the platforms and use the platforms for this purpose only"
+    },
+    {
+        "product_name": "Fairlife",
+        "boycott": true,
+        "about": "FairlifeDairy brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Fairlife, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Fairlife.Don't sell FairlifeDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Fairy",
+        "boycott": true,
+        "about": "FairyHousehold cleaning products.household",
+        "why_boycott": "Fairy is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Fairy productsDon't sell Fairy productsDon't work for Fairy"
+    },
+    {
+        "product_name": "Fanta",
+        "boycott": true,
+        "about": "FantaSoft drink brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Fanta, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Fanta.Don't sell FantaDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Febreze",
+        "boycott": true,
+        "about": "FebrezeHousehold cleaning products.household",
+        "why_boycott": "Febreze is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Febreze productsDon't sell Febreze productsDon't work for Febreze"
+    },
+    {
+        "product_name": "Felix",
+        "boycott": true,
+        "about": "FelixFelix is a pet food brand owned by Nestle.food",
+        "why_boycott": "The owner of the Felix brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Felix productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Fendi",
+        "boycott": true,
+        "about": "FendiA fashion brand owned by Bernard Arnaults company, LVMHfashionclothingcosmetics",
+        "why_boycott": "The owner of Fendi's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
+        "more": "Don't buy Fendi productsDon't sell Fendi productsDon't work for Fendi or LVMH"
+    },
+    {
+        "product_name": "Ferrero",
+        "boycott": true,
+        "about": "FerreroFerrero is an Italian confectionery manufacturer and distributor food",
+        "why_boycott": "Ferrero has based its head quarters for Asia in Holon, Israel",
+        "more": "Dont buy Ferrero productsDont sell Ferrero products"
+    },
+    {
+        "product_name": "Fiverr",
+        "boycott": true,
+        "about": "FiverrIsraeli owned freeelance marketplace. Based in Tel Aviv, Israel.technology",
+        "why_boycott": "CEO, Micha Kaufman, is a staunch zionist who supports the IDF.",
+        "more": "Don't use Fiverr to purchase or offer services.Don't work for Fiverr."
+    },
+    {
+        "product_name": "Flash",
+        "boycott": true,
+        "about": "FlashHousehold cleaning products.household",
+        "why_boycott": "Flash is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Flash productsDon't sell Flash productsDon't work for Flash"
+    },
+    {
+        "product_name": "Fuzetea",
+        "boycott": true,
+        "about": "FuzeteaIced tea brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Fuzetea, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Fuzetea.Don't sell FuzeteaDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "G4S",
+        "boycott": true,
+        "about": "G4SG4S is a British private security companycontractor",
+        "why_boycott": "G4S has now completely divested from israel after BDS pressure. But they have been complicit and helped the Israeli occupation for many years already.",
+        "more": "Don't work for G4SIf you are in a decision making position, avoid contracting G4S."
+    },
+    {
+        "product_name": "Garnier",
+        "boycott": true,
+        "about": "GarnierNatural care brand, owned by L'Oreal.cosmetics",
+        "why_boycott": "Garnier is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+        "more": "Don't buy Garnier productsDon't sell Garnier productsDon't work for L'Oreal Groupe"
+    },
+    {
+        "product_name": "Gatorade",
+        "boycott": true,
+        "about": "GatoradeSports energy drink brand owned by PepsiCodrinks",
+        "why_boycott": "The owner of Gatorade, PepsiCo, bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+        "more": "Don't buy Gatorade products.Don't sell Gatorade productsDon't work for the PepsiCo Company"
+    },
+    {
+        "product_name": "Gillette",
+        "boycott": true,
+        "about": "GillettePersonal care products.healthcare",
+        "why_boycott": "Gillette is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Gillette productsDon't sell Gillette productsDon't work for Gillette"
+    },
+    {
+        "product_name": "Givenchy",
+        "boycott": true,
+        "about": "GivenchyA fashion brand owned by Bernard Arnaults company, LVMHfashionclothingcosmetics",
+        "why_boycott": "The owner of Givenchy's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
+        "more": "Don't buy Givenchy productsDon't sell Givenchy productsDon't work for Givenchy or LVMH"
     },
     {
         "product_name": "Google",
@@ -77,10 +602,913 @@
         "more": "Only use free Google products and if there is no alternativeDon't click on Google adsDon't spend on Google ads or use Google adsenseDon't buy Google productsDon't work for Google"
     },
     {
-        "product_name": "Amazon",
+        "product_name": "Grenade",
         "boycott": true,
-        "about": "AmazonComputer technology companytechnology",
-        "why_boycott": "Amazon is investing $7.2bn in data centers in israel via AWS",
-        "more": "Don't spend money on amazon products including AWSDo not work for AmazonDo not buy Kindle books and other content from AmazonCancel your Amazon prime membership"
+        "about": "GrenadeGrenade is a food brand owned by Mondelezfood",
+        "why_boycott": "The owner of Grenade, Mondelez, invests in Israeli start ups in Occupied Palestine.",
+        "more": "Don't buy Grenade products.Don't sell Grenade productsDon't work for Mondelez"
+    },
+    {
+        "product_name": "Hadiklaim",
+        "boycott": true,
+        "about": "HadiklaimDates brand which is owned by an israeli entity, operating on stolen Palestinian land.fooddates",
+        "why_boycott": "Hadiklaim is an israeli brand which sells dates grown on stolen Palestinian land.",
+        "more": "Don't buy dates from this brand.Ask businesses to stop selling this brandOnly buy Medjoul dates from confirmed Palestinian owned businessesBuy other variants of dates besides Medjoul if you can't confirm the origin"
+    },
+    {
+        "product_name": "Halls",
+        "boycott": true,
+        "about": "HallsHalls is a food brand owned by Mondelezfood",
+        "why_boycott": "The owner of Halls, Mondelez, invests in Israeli start ups in Occupied Palestine.",
+        "more": "Don't buy Halls products.Don't sell Halls productsDon't work for Mondelez"
+    },
+    {
+        "product_name": "HP",
+        "boycott": true,
+        "about": "HPIT company who develop hardware and software for consumers, enterprise and government.technology",
+        "why_boycott": "Hewlett Packard runs the biometric ID system that Israel uses to restrict Palestinian movement as well as other systems for the IDF.",
+        "more": "Avoid buying HP products.Don't work for HP."
+    },
+    {
+        "product_name": "HSBC",
+        "boycott": true,
+        "about": "HSBCBritish multinational universal bank and financial service provider, headquartered in London.insurancefinance",
+        "why_boycott": "HSBC invests in companies selling arms and military equipment to Israel that have been used in the oppression of Palestinians",
+        "more": "Don't bank with HSBC.Close your HSBC accounts.Don't use HSBC lending options.Cancel your HSBC credit cards.Don't work for HSBC."
+    },
+    {
+        "product_name": "Hublot",
+        "boycott": true,
+        "about": "HublotA luxury watch brand owned by Bernard Arnaults company, LVMHfashionluxury",
+        "why_boycott": "The owner of Hublot's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
+        "more": "Don't buy Hublot productsDon't sell Hublot productsDon't work for Hublot or LVMH"
+    },
+    {
+        "product_name": "Hyundai",
+        "boycott": true,
+        "about": "HyundaiKorean car manufacturer, which also manufactures heavy machinery.carmanufacturer",
+        "why_boycott": "Hyundai heavy machinery has been used in the demolition of Palestinian neighbourhoods in Jerusalem, benefiting them commercially from the Israeli occupation.",
+        "more": "Don't buy Hyundai cars or machinery.Don't sell Hyundai cars or machinery.Don't work for Hyundai."
+    },
+    {
+        "product_name": "IAMS",
+        "boycott": true,
+        "about": "IAMSIAMS is a petcare brand which is owned by Mars.petcare",
+        "why_boycott": "The owner of IAMS, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy IAMS products.Don't sell IAMS products.Don't work for Mars."
+    },
+    {
+        "product_name": "Instagram",
+        "boycott": true,
+        "about": "InstagramInstagram is owned by Meta which is a tech company that also owns Facebook, Whatsapp and other social platforms.technology",
+        "why_boycott": "Meta has been censoring Palestinian, pro-Palestinian, and neutral content which shows the reality of the israeli genocide of gaza which started in October 2023. They have removed content, closed or blocked accounts, and their ai tools for moderating content have shown pro-israel bias, and anti-Palestinian bias.",
+        "more": "Do not advertise with MetaDo not click ads on Meta sites ie Facebook and InstagramDo not pay for other Meta productsKeep pro-Palestinian content prevalent on the platforms and use the platforms for this purpose only"
+    },
+    {
+        "product_name": "Intel",
+        "boycott": true,
+        "about": "IntelComputer technology companytechnology",
+        "why_boycott": "Intel Invests heavily in israel including in towns stolen from Palestinians",
+        "more": "Don't use Intel productsDon't work for IntelIf you are a company decision maker, find alternatives to Intel products"
+    },
+    {
+        "product_name": "Jaguar",
+        "boycott": true,
+        "about": "JaguarCar brand owned by Jaguar Land Rover.car",
+        "why_boycott": "Jaguar Land Rover partners with TCS to open Open Innovation Programme in Israel",
+        "more": "Don't buy new Jaguar cars.Don't sell new Jaguar carsDon't work for Jaguar Land Rover"
+    },
+    {
+        "product_name": "Kayak",
+        "boycott": true,
+        "about": "KayakKayak is a website owned by Booking Holdings.technologytravel",
+        "why_boycott": "Booking.com, whos parent company Booking Holdings owns Kayak, allows listings in occupied Palestinian territory, and after initially deciding to add a label to properties which are in occupied territory, reversed that move under pressure from Israel.",
+        "more": "Don't book on Kayak.Book directly with businesses. They usually offer discounts and similar terms for direct bookings.Don't list your services on Kayak.Don't work for Booking Holdings"
+    },
+    {
+        "product_name": "Kenzo",
+        "boycott": true,
+        "about": "KenzoA fashion brand owned by Bernard Arnaults company, LVMHfashionclothingcosmetics",
+        "why_boycott": "The owner of Kenzo's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
+        "more": "Don't buy Kenzo productsDon't sell Kenzo productsDon't work for Kenzo or LVMH"
+    },
+    {
+        "product_name": "Kerastase",
+        "boycott": true,
+        "about": "KerastaseSkincare brand owned by L'Orealcosmetics",
+        "why_boycott": "Kerastase is owned by L'Oreal. L'Oreal is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+        "more": "Don't buy Kerastase productsDon't sell Kerastase productsDon't work for L'Oreal"
+    },
+    {
+        "product_name": "Keter",
+        "boycott": true,
+        "about": "KeterSheds, garden furniture and household products.household",
+        "why_boycott": "Keter operated facilities in the Occupied West Bank's Barkan Industrial Estate. After boycott pressure it seems to have closed the facility, however its history of complicity in the occupation means it should still be boycotted.",
+        "more": "Don't buy Keter products.Don't sell Keter products."
+    },
+    {
+        "product_name": "KFC",
+        "boycott": true,
+        "about": "KFCInternational fast food chainfooddrinks",
+        "why_boycott": "Parent company Yum Brands is an investor in Israeli start ups",
+        "more": "Don't eat from KFC restaurants.Don't work in KFC restaurants"
+    },
+    {
+        "product_name": "Kilian",
+        "boycott": true,
+        "about": "KilianCosmetics company, owned by Estee Lauder.cosmetics",
+        "why_boycott": "Kilian is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land.",
+        "more": "Don't buy products from Kilian.Don't work for Estee Lauder brands."
+    },
+    {
+        "product_name": "KitKat",
+        "boycott": true,
+        "about": "KitKatKitKat is a confectionary brand owned by Nestle.food",
+        "why_boycott": "The owner of the KitKat brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy KitKat productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Knorr",
+        "boycott": true,
+        "about": "KnorrSoups, Buillon cubes and other cooking ingredients.food",
+        "why_boycott": "Knorr is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.",
+        "more": "Don't buy Knorr products.Don't sell Knorr productsDon't work for Unilever"
+    },
+    {
+        "product_name": "KurKure",
+        "boycott": true,
+        "about": "KurKurePotato snacks brand owned by PepsiCofood",
+        "why_boycott": "The owner of KurKure, PepsiCo, bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+        "more": "Don't buy KurKure productsDon't sell KurKure products Don't work for the PepsiCo Company"
+    },
+    {
+        "product_name": "Lancome",
+        "boycott": true,
+        "about": "LancomeBeauty brand, owned by L'Oreal.cosmetics",
+        "why_boycott": "Lancome is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+        "more": "Don't buy Lancome productsDon't sell Lancome productsDon't work for L'Oreal Groupe"
+    },
+    {
+        "product_name": "Lavazza",
+        "boycott": true,
+        "about": "LavazzaLavazza is a coffee products brandcoffee",
+        "why_boycott": "Lavazza has pressured football team Arsenal to silence its player, Mohamed Elneny, who posted support on social media for Palestine",
+        "more": "Don't buy Lavazza productsDon't sell Lavazza products.Don't buy Arsenal football shirts whilst Lavazza is a sponsor."
+    },
+    {
+        "product_name": "Lenor",
+        "boycott": true,
+        "about": "LenorHousehold cleaning products.household",
+        "why_boycott": "Lenor is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Lenor productsDon't sell Lenor productsDon't work for Lenor"
+    },
+    {
+        "product_name": "Lidl",
+        "boycott": true,
+        "about": "LidlA supermarket chain owned by Dieter Schwarz's Schwarz Group in Germany supermarket",
+        "why_boycott": "The owner of Lidl is a zionist and a huge investor in israeli tech companies.",
+        "more": "Don't shop at Lidl.Don't work for Lidl."
+    },
+    {
+        "product_name": "Lion",
+        "boycott": true,
+        "about": "LionLion is a breakfast cereal owned by Nestle.food",
+        "why_boycott": "The owner of the Lion brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Lion productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Lipton",
+        "boycott": true,
+        "about": "LiptonTea brand owned by PepsiCodrinks",
+        "why_boycott": "The owner of Lipton, PepsiCo, bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+        "more": "Don't buy Lipton products.Don't sell Lipton productsDon't work for the PepsiCo Company"
+    },
+    {
+        "product_name": "Loewe",
+        "boycott": true,
+        "about": "LoeweA fashion brand owned by Bernard Arnaults company, LVMHfashionclothingcosmetics",
+        "why_boycott": "The owner of Loewe's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
+        "more": "Don't buy Loewe productsDon't sell Loewe productsDon't work for Loewe or LVMH"
+    },
+    {
+        "product_name": "Lux",
+        "boycott": true,
+        "about": "LuxPersonal care products.healthcarecosmetics",
+        "why_boycott": "Lux is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.",
+        "more": "Don't buy Lux products.Don't sell Lux productsDon't work for Unilever"
+    },
+    {
+        "product_name": "LVMH",
+        "boycott": true,
+        "about": "LVMHLouis Vuitton Moet Hennessey, a french multinational conglomerate specialising in luxury goodscosmetics",
+        "why_boycott": "LVMH owner Bernard Arnault invests in Israeli companies",
+        "more": "Don't buy LVMH productsDon't sell LVMH productsDon't work for LVMH"
+    },
+    {
+        "product_name": "Lynx",
+        "boycott": true,
+        "about": "LynxDeodorant brand.healthcarecosmetics",
+        "why_boycott": "Lynx is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.",
+        "more": "Don't buy Lynx products.Don't sell Lynx productsDon't work for Unilever"
+    },
+    {
+        "product_name": "Maggi",
+        "boycott": true,
+        "about": "MaggiMaggi is a cooking ingredients brand owned by Nestle.food",
+        "why_boycott": "The owner of the Maggi brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Maggi productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "MBDA",
+        "boycott": true,
+        "about": "MBDAMBDA is a weapons manufacturer with operations in the UK.weaponsmanufacturer",
+        "why_boycott": "Israel Aerospace Industries (IAI) is working with the German arm of MBDA and signed a cooperation agreement for the production, integration, sales, and marketing of IAI's loitering ammunition systems in Germany",
+        "more": "Don't work for MBDA"
+    },
+    {
+        "product_name": "Malteasers",
+        "boycott": true,
+        "about": "MalteasersMalteasers is a chocolate brand owned by Mars.food",
+        "why_boycott": "The owner of Malteasers, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy Malteasers products.Don't sell Malteasers products.Don't work for Mars."
+    },
+    {
+        "product_name": "Mars",
+        "boycott": true,
+        "about": "MarsMars is a corporation which owns several petcare, confectionary, cooking and food brands.fooddrinks",
+        "why_boycott": "Mars supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy Mars products.Don't sell Mars products.Don't work for Mars."
+    },
+    {
+        "product_name": "Maybelline",
+        "boycott": true,
+        "about": "MaybellineBeauty brand, owned by L'Oreal.cosmetics",
+        "why_boycott": "Maybelline is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+        "more": "Don't buy Maybelline productsDon't sell Maybelline productsDon't work for L'Oreal Groupe"
+    },
+    {
+        "product_name": "McDonalds",
+        "boycott": true,
+        "about": "McDonaldsInternational fast food chainfooddrinks",
+        "why_boycott": "McDonalds Israel supports IDF by providing free food and drinks to Israeli militants. See tweet (click translate) for reference.",
+        "more": "Don't eat at McDonald's.Don't work for McDonald's."
+    },
+    {
+        "product_name": "Meta",
+        "boycott": true,
+        "about": "MetaMeta is a tech company which owns Facebook, Instagram, Whatsapp and other social platforms.technology",
+        "why_boycott": "Meta has been censoring Palestinian, pro-Palestinian, and neutral content which shows the reality of the israeli genocide of gaza which started in October 2023. They have removed content, closed or blocked accounts, and their ai tools for moderating content have shown pro-israel bias, and anti-Palestinian bias.",
+        "more": "Do not advertise with MetaDo not click ads on Meta sites ie Facebook and InstagramDo not pay for other Meta productsKeep pro-Palestinian content prevalent on the platforms and use the platforms for this purpose only"
+    },
+    {
+        "product_name": "Microsoft",
+        "boycott": true,
+        "about": "MicrosoftSoftware and technology company.technology",
+        "why_boycott": "Microsoft is opening a data center in israel and invests heavily in their economy.",
+        "more": "Avoid paying for Microsoft products and use free alternatives where possible.Don't buy Xbox products, games, subscriptions.Don't work for Microsoft"
+    },
+    {
+        "product_name": "Mikado",
+        "boycott": true,
+        "about": "MikadoMikado is a food brand owned by Mondelezfood",
+        "why_boycott": "The owner of Mikado, Mondelez, invests in Israeli start ups in Occupied Palestine.",
+        "more": "Don't buy Mikado products.Don't sell Mikado productsDon't work for Mondelez"
+    },
+    {
+        "product_name": "Milka",
+        "boycott": true,
+        "about": "MilkaMilka is a food brand owned by Mondelezfood",
+        "why_boycott": "The owner of Milka, Mondelez, invests in Israeli start ups in Occupied Palestine.",
+        "more": "Don't buy Milka products.Don't sell Milka productsDon't work for Mondelez"
+    },
+    {
+        "product_name": "Milkybar",
+        "boycott": true,
+        "about": "MilkybarCheerios is a breakfast cereal owned by Nestle.food",
+        "why_boycott": "The owner of the Cheerios brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Cheerios productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Mirinda",
+        "boycott": true,
+        "about": "MirindaSoft drink brand owned by PepsiCodrinks",
+        "why_boycott": "The owner of Mirinda, PepsiCo, bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+        "more": "Don't buy Mirinda products. Don't work for the PepsiCo Company"
+    },
+    {
+        "product_name": "Mondelez",
+        "boycott": true,
+        "about": "MondelezInternational snack company with 100s of brandsfooddrinks",
+        "why_boycott": "Mondelez invests in Israeli start ups in Occupied Palestine.",
+        "more": "Don't buy Mondelez products.Don't sell Mondelez productsDon't work for Mondelez"
+    },
+    {
+        "product_name": "Moovit",
+        "boycott": true,
+        "about": "MoovitMoovit is an Israel-based mobility as a service provider and journey planner app.technology",
+        "why_boycott": "Founder, Uri Levine, is a zionist who is also ex-IDF (also founded waze).",
+        "more": "Don't use Moovit to plan your journeys.Don't work for Moovit."
+    },
+    {
+        "product_name": "MoroccanOil",
+        "boycott": true,
+        "about": "MoroccanOilAn israeli haircare brand owned by Israeli, Carmen Tal.cosmetics",
+        "why_boycott": "Moroccan Oil obscures its manufacturing and origins. It poses as a moroccan brand, however its products are all manufactured in Isreal.",
+        "more": "Don't buy MoroccanOil productsDon't sell MoroccanOil productsDon't work for MoroccanOil"
+    },
+    {
+        "product_name": "Motorola",
+        "boycott": true,
+        "about": "MotorolaCommunications and electronics manufacturer and operator.manufacturertechnology",
+        "why_boycott": "The IDF uses motorola as a main supplier for its communication equipment which enables them to effectively control the occupied Palestinians. They also manufacture the bomb fuses used in IDF bombs.",
+        "more": "Don't buy Motorola devices.Don't sell Motorola devices.Don't work for Motorola."
+    },
+    {
+        "product_name": "Movenpick",
+        "boycott": true,
+        "about": "MovenpickMovenpick is an ice cream brand owned by Nestle.food",
+        "why_boycott": "The owner of the Movenpick brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Movenpick productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Nescafe",
+        "boycott": true,
+        "about": "NescafeNescafe is a coffee brand owned by Nestle.coffee",
+        "why_boycott": "The owner of the Nescafe brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Nescafe productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Nespresso",
+        "boycott": true,
+        "about": "NespressoNespresso is a coffee brand owned by Nestle.coffee",
+        "why_boycott": "The owner of the Nespresso brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Nespresso productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Nesquik",
+        "boycott": true,
+        "about": "NesquikNesquik is a breakfast cereal owned by Nestle.food",
+        "why_boycott": "The owner of the Nesquik brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Nesquik productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Nestle",
+        "boycott": true,
+        "about": "NestleNestle is the largest public food company in the world.fooddrinks",
+        "why_boycott": "Osem is an israeli food manufacturer which operates in Occupied Palestine. Nestle owns a controlling stake in Osem.",
+        "more": "Avoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra Salads and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Next",
+        "boycott": true,
+        "about": "NextClothing company controlled by the zionist Wolfson family.clothingfashion",
+        "why_boycott": "The Wolfson family is known for its charity which provides grants for science initiatives and cultural projects in israel. The family has controlled Next plc through various positions including Chairman David Wolfson and his son Simon Wolfson, the current CEO of Next.",
+        "more": "Don't buy from Next.Don't work for Next Plc"
+    },
+    {
+        "product_name": "NIOD",
+        "boycott": true,
+        "about": "NIODCosmetics company, owned by Estee Lauder.cosmetics",
+        "why_boycott": "NIOD is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land.",
+        "more": "Don't buy products from NIOD.Don't work for Estee Lauder brands."
+    },
+    {
+        "product_name": "Noon.com",
+        "boycott": true,
+        "about": "Noon.comOnline retailer owned by the Mohamed Alabbartechnology",
+        "why_boycott": "Mohamed Alabbar is a huge supporter of israel, contributing with investments and donations to settlements and infrastructure, and is a big voice for normalisation between the UAE and israel.",
+        "more": "Don't buy from Noon.com.Don't work for Noon.com"
+    },
+    {
+        "product_name": "Nvidia",
+        "boycott": true,
+        "about": "NvidiaComputer technology companytechnology",
+        "why_boycott": "Nvidia is building a supercomputer for Israel, which will undoubtedly be used to continue its oppression of Palestinians and enforce their apartheid.",
+        "more": "Don't use Nvidia productsDon't work for NvidiaIf you are a company decision maker, find alternatives to Nvidia products"
+    },
+    {
+        "product_name": "Oasis",
+        "boycott": true,
+        "about": "OasisSoft drink brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Oasis, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Oasis.Don't sell OasisDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Olay",
+        "boycott": true,
+        "about": "OlayHair care brand.cosmeticshealthcare",
+        "why_boycott": "Olay is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy olay productsDon't sell olay productsDon't work for olay"
+    },
+    {
+        "product_name": "OpenAI",
+        "boycott": true,
+        "about": "OpenAIOpenAI is an AI company, famous for chatGPT, headed by zionist, Sam Altman. After being fired in November 2023, he was reinstated as the CEO of the company days later.technology",
+        "why_boycott": "Sam Altman is a zionist. Many responses by the chat bot have proven to be pro zionist biased.",
+        "more": "Only use the free version of chatGPT.Only build products using OpenAI APIs.Don't work for OpenAI."
+    },
+    {
+        "product_name": "Opentable",
+        "boycott": true,
+        "about": "OpentableOpentable is a website owned by Booking Holdings.technologyfood",
+        "why_boycott": "Booking.com, whos parent company Booking Holdings owns Opentable, allows listings in occupied Palestinian territory, and after initially deciding to add a label to properties which are in occupied territory, reversed that move under pressure from Israel.",
+        "more": "Don't book on Opentable.Book directly with restaurants. They usually offer discounts and similar terms for direct bookings.Don't list your services on Opentable.Don't work for Booking Holdings"
+    },
+    {
+        "product_name": "Oracle",
+        "boycott": true,
+        "about": "OracleComputer technology companytechnology",
+        "why_boycott": "Oracle donated money to israeli employees after the war started, with an additional 10,000 israeli shekels for employees who serve in the IDF.",
+        "more": "Don't use Oracle productsDon't work for OracleIf you are a company decision maker, find alternatives to Oracle products"
+    },
+    {
+        "product_name": "Orangina",
+        "boycott": true,
+        "about": "OranginaJuice brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Orangina, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Orangina.Don't sell OranginaDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Oreo",
+        "boycott": true,
+        "about": "OreoOreo is a food brand owned by Mondelezfood",
+        "why_boycott": "The owner of Oreo, Mondelez, invests in Israeli start ups in Occupied Palestine.",
+        "more": "Don't buy Oreo products.Don't sell Oreo productsDon't work for Mondelez"
+    },
+    {
+        "product_name": "Origins",
+        "boycott": true,
+        "about": "OriginsCosmetics company, owned by Estee Lauder.cosmetics",
+        "why_boycott": "Origins is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land.",
+        "more": "Don't buy products from Origins.Don't work for Estee Lauder brands."
+    },
+    {
+        "product_name": "Outbrain",
+        "boycott": true,
+        "about": "OutbrainOutbrain is an advertising company which serves ads in 'Around the Web' and 'Recommended For You' boxes at the bottom of many online news articles technology",
+        "why_boycott": "Outbrain's CEO, Yaron Galai, is a staunch zionist who supports IDF action against innocent Palestinians.",
+        "more": "Don't click on ads on sites that operate Outbrain (or Taboola).Don't serve ads by Outbrain (or Taboola).Don't advertise through Outbrain (or Taboola)."
+    },
+    {
+        "product_name": "Pampers",
+        "boycott": true,
+        "about": "PampersBabies nappy/diaper brand.healthcarehousehold",
+        "why_boycott": "Pampers are made in factories on occupied territory, and is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Pampers productsDon't sell Pampers productsDon't work for Pampers"
+    },
+    {
+        "product_name": "Pantene",
+        "boycott": true,
+        "about": "PanteneHair care brand.cosmeticshealthcare",
+        "why_boycott": "Pantene is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Pantene productsDon't sell Pantene productsDon't work for Pantene"
+    },
+    {
+        "product_name": "Paramount",
+        "boycott": true,
+        "about": "ParamountParamount is a media conglomerate with news, entertainment and streaming operationsentertainmenttechnology",
+        "why_boycott": "Paramount issued a statement on twitter that the company stands with israel.",
+        "more": "Dont buy Paramount+Dont watch Paramount shows and moviesDont work for Paramount"
+    },
+    {
+        "product_name": "Payoneer",
+        "boycott": true,
+        "about": "PayoneerPayoneer is an israel tech company specialising in facilitating online payments.technology",
+        "why_boycott": "Payoneer is an israeli company which operates on stolen Palestinian land.",
+        "more": "Don't use Payoneer.Don't work for Payoneer."
+    },
+    {
+        "product_name": "Pedigree",
+        "boycott": true,
+        "about": "PedigreePedigree is a petcare brand which is owned by Mars.petcare",
+        "why_boycott": "The owner of Pedigree, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy Pedigree products.Don't sell Pedigree products.Don't work for Mars."
+    },
+    {
+        "product_name": "Pepsi",
+        "boycott": true,
+        "about": "PepsiSoft drinks manufactererdrinksfood",
+        "why_boycott": "PepsiCo owns SodaStream and 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+        "more": "Don't buy PepsiCo products.Don't sell PepsiCo productsDon't work for the PepsiCo Company"
+    },
+    {
+        "product_name": "Perrier",
+        "boycott": true,
+        "about": "PerrierPerrier is a sparkling water brand owned by Nestle.food",
+        "why_boycott": "The owner of the Perrier brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Perrier productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Persil",
+        "boycott": true,
+        "about": "PersilLaundry detergent range.household",
+        "why_boycott": "Persil licence is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.",
+        "more": "Don't buy Persil products.Don't sell Persil productsDon't work for Unilever"
+    },
+    {
+        "product_name": "Philadelphia",
+        "boycott": true,
+        "about": "PhiladelphiaPhiladelphia is a food brand owned by Mondelezfood",
+        "why_boycott": "The owner of Philadelphia, Mondelez, invests in Israeli start ups in Occupied Palestine.",
+        "more": "Don't buy Philadelphia products.Don't sell Philadelphia productsDon't work for Mondelez"
+    },
+    {
+        "product_name": "Popeyes",
+        "boycott": true,
+        "about": "PopeyesInternational fast food chainfooddrinks",
+        "why_boycott": "Popeyes is the sister company of Burger King, which supports IDF by providing free food and drinks to Israeli militants. See their instagram post (click translate) for reference.",
+        "more": "Don't eat at Popeyes.Don't work for Popeyes."
+    },
+    {
+        "product_name": "Powerade",
+        "boycott": true,
+        "about": "PoweradeSports energy drink brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Powerade, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Powerade.Don't sell PoweradeDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Priceline",
+        "boycott": true,
+        "about": "PricelinePriceline is a website owned by Booking Holdings.technologytravel",
+        "why_boycott": "Booking.com, whos parent company Booking Holdings owns Priceline, allows listings in occupied Palestinian territory, and after initially deciding to add a label to properties which are in occupied territory, reversed that move under pressure from Israel.",
+        "more": "Don't book on Priceline.Book directly with businesses. They usually offer discounts and similar terms for direct bookings.Don't list your services on Priceline.Don't work for Booking Holdings"
+    },
+    {
+        "product_name": "Puma",
+        "boycott": true,
+        "about": "PumaPuma is a German sportswear manufacturer and retailer sponsors athletes and teams in various sports.fashion",
+        "why_boycott": "Puma is the main sponsor of the Israel Football Association (IFA), which includes teams in Israel\u2019s illegal settlements on occupied Palestinian land.",
+        "more": "Don't buy Puma products until they stop sponsoring IFA and Israeli teams opperating in illegal settlements.Don't work for Puma."
+    },
+    {
+        "product_name": "Purina",
+        "boycott": true,
+        "about": "PurinaPurina is a pet food brand owned by Nestle.foodpetcare",
+        "why_boycott": "The owner of the Purina brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Purina productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Rani",
+        "boycott": true,
+        "about": "RaniDrinks brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Rani, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Rani.Don't sell RaniDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Rapunzel",
+        "boycott": true,
+        "about": "RapunzelDates brand which is owned by an israeli entity, operating on stolen Palestinian land.fooddates",
+        "why_boycott": "Rapunzel is an israeli brand which sells dates grown on stolen Palestinian land.",
+        "more": "Don't buy dates from this brand.Ask businesses to stop selling this brandOnly buy Medjoul dates from confirmed Palestinian owned businessesBuy other variants of dates besides Medjoul if you can't confirm the origin"
+    },
+    {
+        "product_name": "Rapyd",
+        "boycott": true,
+        "about": "RapydRapyd is an israel tech company specialising in facilitating online payments.technology",
+        "why_boycott": "Rapyd is an israeli company which operates on stolen Palestinian land and its zionist owner supports the occupation.",
+        "more": "Don't use Rapyd.Don't work for Rapyd."
+    },
+    {
+        "product_name": "Raytheon",
+        "boycott": true,
+        "about": "RaytheonRTX manufactures aircraft engines, avionics, aerostructures, cybersecurity solutions, guided missiles, air defense systems, satellites, and drones used in warefare around the world.weaponsmanufacturer",
+        "why_boycott": "Supplies the IDF with the Iron Dome system. Enabling Israel to occupy Palestine with impunity and without fear of resistance.",
+        "more": "Don't work for Raytheon"
+    },
+    {
+        "product_name": "RBS",
+        "boycott": true,
+        "about": "RBSMajor retail and commercial bank based in Scotland.insurancefinance",
+        "why_boycott": "RBS invests in companies selling arms and military equipment to Israel that have been used in the oppression of Palestinians",
+        "more": "Don't bank with RBS.Close your RBS accounts.Don't use RBS lending options.Cancel your RBS credit cards.Don't work for RBS."
+    },
+    {
+        "product_name": "Rexona",
+        "boycott": true,
+        "about": "RexonaPersonal healthcare brand.healthcarecosmetics",
+        "why_boycott": "Rexona is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.",
+        "more": "Don't buy Rexona products.Don't sell Rexona productsDon't work for Unilever"
+    },
+    {
+        "product_name": "Ritz",
+        "boycott": true,
+        "about": "RitzRitz is a food brand owned by Mondelezfood",
+        "why_boycott": "The owner of Ritz, Mondelez, invests in Israeli start ups in Occupied Palestine.",
+        "more": "Don't buy Ritz products.Don't sell Ritz productsDon't work for Mondelez"
+    },
+    {
+        "product_name": "Sabra",
+        "boycott": true,
+        "about": "SabraNestle is the largest public food company in the world.food",
+        "why_boycott": "Osem is an israeli food manufacturer which operates in Occupied Palestine. Nestle owns a controlling stake in Osem.",
+        "more": "Avoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra Salads and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "SAP",
+        "boycott": true,
+        "about": "SAPComputer technology companytechnology",
+        "why_boycott": "SAP donated money to israeli employees after the war started, with an additional 6,500 israeli shekels for each family member of the employee.",
+        "more": "Don't use SAP productsDon't work for SAPIf you are a company decision maker, find alternatives to SAP products"
+    },
+    {
+        "product_name": "Schweppes",
+        "boycott": true,
+        "about": "SchweppesSoft drink brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Schweppes, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Schweppes.Don't sell SchweppesDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Schweppes",
+        "boycott": true,
+        "about": "SchweppesSoft drink brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Schweppes, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Schweppes.Don't sell SchweppesDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Sephora",
+        "boycott": true,
+        "about": "SephoraA beauty retailer owned by Bernard Arnaults company, LVMHcosmetics",
+        "why_boycott": "The owner of Sephora, Bernard Arnault invests hundreds of millions in Israeli companies",
+        "more": "Don't buy from Sephora productsDon't sell your beauty brand with SephoraDon't work for Sephora or LVMH"
+    },
+    {
+        "product_name": "Shams",
+        "boycott": true,
+        "about": "ShamsDates brand which is owned by an israeli entity, operating on stolen Palestinian land.fooddates",
+        "why_boycott": "Shams is an israeli brand which sells dates grown on stolen Palestinian land.",
+        "more": "Don't buy dates from this brand.Ask businesses to stop selling this brandOnly buy Medjoul dates from confirmed Palestinian owned businessesBuy other variants of dates besides Medjoul if you can't confirm the origin"
+    },
+    {
+        "product_name": "Shreddies",
+        "boycott": true,
+        "about": "ShreddiesShreddies is a breakfast cereal owned by Nestle.food",
+        "why_boycott": "The owner of the Shreddies brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Shreddies productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Siemens",
+        "boycott": true,
+        "about": "SiemensA technology company that builds smart infrastructure, medical equipment, and appliances amongst other engineered products.technology",
+        "why_boycott": "Siemens is deeply involved in the building of israeli infrastructure with billions in contracts. Siemens also invests in israeli companies.",
+        "more": "Don't buy Siemens products.Don't work for Siemens."
+    },
+    {
+        "product_name": "Skechers",
+        "boycott": true,
+        "about": "SkechersFootwear brand focussing on sneakers.clothingfashion",
+        "why_boycott": "Michael S Greenberg, the president of Skechers, is a zionist who has posted pro israel content on his instagram.",
+        "more": "Don't buy Skechers productsDon't sell Skechers productsDon't work for Skechers Groupe"
+    },
+    {
+        "product_name": "Skims",
+        "boycott": true,
+        "about": "SkimsShapewear brand by Kim Kardashianclothingfashion",
+        "why_boycott": "Kim Kardashian has shared a message to her 'Jewish friends' condemning the October 7th operation, but has not condemned israel for its genocide of Gaza.",
+        "more": "Don't buy Skims productsDon't sell Skims productsDon't work for Skims"
+    },
+    {
+        "product_name": "Skittles",
+        "boycott": true,
+        "about": "SkittlesSkittles is a candy brand owned by Mars.food",
+        "why_boycott": "The owner of Skittles, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy Skittles products.Don't sell Skittles products.Don't work for Mars."
+    },
+    {
+        "product_name": "Smarties",
+        "boycott": true,
+        "about": "SmartiesSmarties is a chocolate snack owned by Nestle.food",
+        "why_boycott": "The owner of the Smarties brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Smarties productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Smartwater",
+        "boycott": true,
+        "about": "SmartwaterWater brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Smartwater, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Smartwater.Don't sell SmartwaterDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Snickers",
+        "boycott": true,
+        "about": "SnickersSnickers is a chocolate brand owned by Mars.food",
+        "why_boycott": "The owner of Snickers, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy Snickers products.Don't sell Snickers products.Don't work for Mars."
+    },
+    {
+        "product_name": "SodaStream",
+        "boycott": true,
+        "about": "SodaStreamIsrael-based consumer home carbonation brand.drinksmanufacturerhousehold",
+        "why_boycott": "SodaStream is an Israeli company which manufactured its products in Occupied Palestine. Now owned by Pepsico after a $3.2b acquisition. It since moved its factory from the West Bank to main Israel, however is still subject to boycott for its firing of 60 Palestinian workers and dark history.",
+        "more": "Don't buy Sodastream devices.Don't sell Sodastream devices."
+    },
+    {
+        "product_name": "Sprite",
+        "boycott": true,
+        "about": "SpriteSoft drink brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Appletiser, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Appletiser.Don't sell AppletiserDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Starbucks",
+        "boycott": true,
+        "about": "StarbucksInternational coffee house chaincoffeedrinks",
+        "why_boycott": "Howard Shultz is the largest private owner of Starbucks shares and is a staunch zionist who invests heavily in Israels economy including a recent $1.7 Billion investment in cybersecurity startup Wiz.",
+        "more": "Don't buy Starbucks.Don't sell Starbucks On the Go.Don't work for Starbucks."
+    },
+    {
+        "product_name": "Sudocrem",
+        "boycott": true,
+        "about": "SudocremMoisturising cream owned by Israeli pharmaceuticals giant, Teva.cosmeticshealthcarepharmaceuticals",
+        "why_boycott": "Teva Pharmaceuticals operates in Occupied Palestine",
+        "more": "Don't buy Sudocrem productsDon't sell Sudocrem products"
+    },
+    {
+        "product_name": "Surf",
+        "boycott": true,
+        "about": "SurfLaundry detergent range.household",
+        "why_boycott": "Surf licence is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.",
+        "more": "Don't buy Surf products.Don't sell Surf productsDon't work for Unilever"
+    },
+    {
+        "product_name": "Taboola",
+        "boycott": true,
+        "about": "TaboolaTaboola is an advertising company which serves ads in 'Around the Web' and 'Recommended For You' boxes at the bottom of many online news articles.technology",
+        "why_boycott": "Taboola's CEO, Adam Singolda, is a staunch zionist who tweets about Palestine supports being ISIS and terrorist sympathisers.",
+        "more": "Don't click on ads on sites that operate Taboola (or outbrain).Don't serve ads by Taboola (or outbrain).Don't advertise through Taboola (or Outbrain)."
+    },
+    {
+        "product_name": "Tampax",
+        "boycott": true,
+        "about": "TampaxPersonal care products.healthcare",
+        "why_boycott": "Tampax is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Tampax productsDon't sell Tampax productsDon't work for Tampax"
+    },
+    {
+        "product_name": "Tang",
+        "boycott": true,
+        "about": "TangTang is a food brand owned by Mondelezfood",
+        "why_boycott": "The owner of Tang, Mondelez, invests in Israeli start ups in Occupied Palestine.",
+        "more": "Don't buy Tang products.Don't sell Tang productsDon't work for Mondelez"
+    },
+    {
+        "product_name": "Temptations",
+        "boycott": true,
+        "about": "TemptationsTemptations is a petcare brand which is owned by Mars.petcare",
+        "why_boycott": "The owner of Temptations, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy Temptations products.Don't sell Temptations products.Don't work for Mars."
+    },
+    {
+        "product_name": "Tesco",
+        "boycott": true,
+        "about": "TescoBritish multinational groceries and general merchandise retailersupermarketfooddrinksfinanceinsurance",
+        "why_boycott": "Tesco is partnering with an Israeli start, Trigo Retail, up to deliver till-less stores with several already open in London. Michael Gabay, the CEO of Trigo is a staunch zionist.",
+        "more": "Don't buy Tesco products, especially from their GetGo stores.Pressure Tesco to drop their partnership with Trigo, and to choose a local partner instead."
+    },
+    {
+        "product_name": "Tide",
+        "boycott": true,
+        "about": "TideLaundry products.household",
+        "why_boycott": "Tide is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Tide productsDon't sell Tide productsDon't work for P&G"
+    },
+    {
+        "product_name": "Toblerone",
+        "boycott": true,
+        "about": "TobleroneToblerone is a food brand owned by Mondelezfood",
+        "why_boycott": "The owner of Toblerone, Mondelez, invests in Israeli start ups in Occupied Palestine.",
+        "more": "Don't buy Toblerone products.Don't sell Toblerone productsDon't work for Mondelez"
+    },
+    {
+        "product_name": "Tresemme",
+        "boycott": true,
+        "about": "TresemmeSelf care brand owned by Unilever.healthcarecosmetics",
+        "why_boycott": "Tresemme is owned by Unilever. Ben & Jerry's is also owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.",
+        "more": "Don't buy Tresemme products.Don't sell Tresemme productsDon't work for Unilever"
+    },
+    {
+        "product_name": "Tropicana",
+        "boycott": true,
+        "about": "TropicanaJuice brand owned by PepsiCo (40%)drinks",
+        "why_boycott": "The owner of Tropicana, PepsiCo, bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+        "more": "Don't buy Tropicana products.Don't sell Tropicana productsDon't work for the PepsiCo Company"
+    },
+    {
+        "product_name": "Twix",
+        "boycott": true,
+        "about": "TwixTwix is a chocolate brand owned by Mars.food",
+        "why_boycott": "The owner of Twix, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy Twix products.Don't sell Twix products.Don't work for Mars."
+    },
+    {
+        "product_name": "Unicef",
+        "boycott": true,
+        "about": "UnicefInternational Charity, led by Executive Director Catherine Russellcharity",
+        "why_boycott": "The head of Unicef, Catherine Russell is married to the chairman of BlackRock investments, one of the largest investors in weapons companies in the world. This is a major conflict of interest and Unicef should not be trusted.",
+        "more": "Don't donate to Unicef fundraisers.Don't run Unicef fundraisers in your place of work or community."
+    },
+    {
+        "product_name": "Unilever",
+        "boycott": true,
+        "about": "UnileverNutrition, healthcare and personal care product manufacturer and distributer.fooddrinkscosmetics",
+        "why_boycott": "Ben & Jerry's is owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.",
+        "more": "Don't buy Unilever products.Don't sell Unilever products"
+    },
+    {
+        "product_name": "Venus",
+        "boycott": true,
+        "about": "VenusPersonal care products for women, by Gillettehealthcare",
+        "why_boycott": "Venus is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Venus productsDon't sell Venus productsDon't work for Venus"
+    },
+    {
+        "product_name": "Viber",
+        "boycott": true,
+        "about": "ViberIsraeli communications company, now owned by japanese firm Rakuten with main operations still in Israel. technology",
+        "why_boycott": "Founder, Talmon Marco, is a zionist who supports IDF operations in Gaza.",
+        "more": "Don't use Viber to communicate.Don't trust that viber is not sharing data with the Israeli intelligence services.Don't work for Viber."
+    },
+    {
+        "product_name": "Vicks",
+        "boycott": true,
+        "about": "VicksDecongestant procucts.healthcare",
+        "why_boycott": "Vicks is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "more": "Don't buy Vicks productsDon't sell Vicks productsDon't work for Vicks"
+    },
+    {
+        "product_name": "Visa",
+        "boycott": true,
+        "about": "VisaInternational card payment processor.finance",
+        "why_boycott": "Visa has opened a research and development center in israel and invests heavily in the local economy.",
+        "more": "Avoid using Visa card for online payments and chip and pin transactions. This does not include bank transfers or cash withdrawals.Try to use cash where possible.Use crypto payments where acceptedDon't work for Visa"
+    },
+    {
+        "product_name": "Vitaminwater",
+        "boycott": true,
+        "about": "VitaminwaterWater brand owned by the Coca Cola company.drinks",
+        "why_boycott": "Coca-Cola Company which owns Vitaminwater, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "more": "Don't buy Vitaminwater.Don't sell VitaminwaterDon't work for the Coca-Cola Company"
+    },
+    {
+        "product_name": "Vittel",
+        "boycott": true,
+        "about": "VittelVittel is a water brand owned by Nestle.drinks",
+        "why_boycott": "The owner of the Vittel brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "more": "Don't buy Vittel productsAvoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra and others which can be found via the wikipedia page in the source."
+    },
+    {
+        "product_name": "Volvic",
+        "boycott": true,
+        "about": "VolvicWater brand owned by Danone.fooddrinks",
+        "why_boycott": "The owner of Volvic, Danone, invests millions into the israeli food start up scene.",
+        "more": "Don't buy Volvic products.Don't sell Volvic products.Don't work for Volvic."
+    },
+    {
+        "product_name": "Walkers",
+        "boycott": true,
+        "about": "WalkersPotato snacks brand owned by PepsiCofood",
+        "why_boycott": "The owner of Walkers, PepsiCo, bought SodaStream for $3.2bn and owns 50% of Sabra both of which had taken advantage of the Israeli occupation of Palestine.",
+        "more": "Don't buy Walkers productsDon't sell Walkers products  Don't work for the PepsiCo Company"
+    },
+    {
+        "product_name": "eToro",
+        "boycott": true,
+        "about": "eToroeToro is a social trading and multi-asset investment company based in Israel.technology",
+        "why_boycott": "Yoni Assia is the CEO of eToro and is a staunch zionist who supports the IDF.",
+        "more": "Don't use eToro to trade stocks.Don't work for eToro."
+    },
+    {
+        "product_name": "Walmart",
+        "boycott": true,
+        "about": "WalmartAmerican multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores.fooddrinkshealthcarecosmeticssupermarket",
+        "why_boycott": "Walmart was quick to pledge $1m to Israeli victims and condemned Hamas, however did not donate anything towards charities operating in Gaza for the victims of Israel's genocide.",
+        "more": "Don't shop at Walmart.Don't work for Walmart"
+    },
+    {
+        "product_name": "Waze",
+        "boycott": true,
+        "about": "WazeIsrael based navigation app. Operations in Israel.technologytravel",
+        "why_boycott": "Founder, Uri Levine, is a staunch zionist who is also ex-IDF (also founded moovit). Waze was bought by Google who are also on the boycott list for building israels supercomputer with Amazon. Waze is owned by Google but their team and office is still based in israel. Waze is a revenue generator, because it serves ads on the map itself which means they make money when you use navigation. Google maps is free and not a revenue generator. It helps Google to target you with ads later, but if you do not click those ads, then you are not benefiting Google. So we recommend using Google maps, but not clicking on Google ads when you browse the internet..",
+        "more": "Don't use Waze to navigate.Don't work for Waze.."
+    },
+    {
+        "product_name": "Whiskas",
+        "boycott": true,
+        "about": "WhiskasWhiskas is a petcare brand which is owned by Mars.petcare",
+        "why_boycott": "The owner of Whiskas, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "more": "Don't buy Whiskas products.Don't sell Whiskas products.Don't work for Mars."
+    },
+    {
+        "product_name": "Wix",
+        "boycott": true,
+        "about": "WixIsraeli owned website building tool. Based in Tel Aviv, Israel.technology",
+        "why_boycott": "CEO Avishai Abrahami is a zionist who supports the IDF.",
+        "more": "Don't use wix to build your website, use another service.Don't work for Wix."
+    },
+    {
+        "product_name": "Zara",
+        "boycott": true,
+        "about": "ZaraA Spanish multinational retail clothing chain.fashionclothing",
+        "why_boycott": "Zara's latest marketing campaign uses corpses in plastic wrapping, and warzone aesthetics, mocking the genocide by israel in Gaza. In a previous incident Joey Schwebel, a Canadian-Israeli dual national and chairman of israel's Zara franchisee Trimera, hosted the convicted terrorist Itamar Ben-Gvir at his home in the lead-up to the Israeli elections. Zara did not made a statement distancing themselves from this association and allowed this ad campaign to run.",
+        "more": "Don't buy Zara productsDon't sell Zara productsDon't work for Zara or its affiliates"
     }
 ]
