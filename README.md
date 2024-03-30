@@ -10,27 +10,19 @@ To run the web scraper, make sure you have the following modules installed:
 - [Requests](https://pypi.org/project/requests/)
 
 You can install them using pip:
-
-<code>pip install beautifulsoup4 requests<code>
-
-Copy
+```pip install beautifulsoup4 requests
+```
 
 ## ▶️ Usage
 
 1. Clone the repository:
-
-git clone https://github.com/fadzwanashriq/israel_product_webscraper
-
-
-2. Navigate to the project directory:
-
-cd israel_product_webscraper
-
-
+```git clone https://github.com/fadzwanashriq/israel_product_webscraper
+```
+2. Navigate to the project directory:\
+```cd israel_product_webscraper
+```
 3. Run the main.py file:
-
-python main.py
-
-
+```python main.py
+```
 
 This will initiate the web scraper and start extracting data from the website.
