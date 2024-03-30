@@ -16,13 +16,16 @@ You can install them using pip:
 ## ▶️ Usage
 
 1. Clone the repository:
-```git clone https://github.com/fadzwanashriq/israel_product_webscraper
+```
+git clone https://github.com/fadzwanashriq/israel_product_webscraper
 ```
 2. Navigate to the project directory:\
-```cd israel_product_webscraper
+```
+cd israel_product_webscraper
 ```
 3. Run the main.py file:
-```python main.py
+```
+python main.py
 ```
 
 This will initiate the web scraper and start extracting data from the website.
