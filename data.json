@@ -2,72 +2,84 @@
     {
         "product_name": "Nestle",
         "boycott": true,
+        "about": "NestleNestle is the largest public food company in the world.fooddrinks",
         "why_boycott": "Osem is an israeli food manufacturer which operates in Occupied Palestine. Nestle owns a controlling stake in Osem.",
         "more": "Avoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra Salads and others which can be found via the wikipedia page in the source."
     },
     {
         "product_name": "Milo",
         "boycott": false,
+        "about": "",
         "why_boycott": "",
         "more": ""
     },
     {
         "product_name": "Milo",
         "boycott": false,
+        "about": "",
         "why_boycott": "",
         "more": ""
     },
     {
         "product_name": "Siemens",
         "boycott": true,
+        "about": "SiemensA technology company that builds smart infrastructure, medical equipment, and appliances amongst other engineered products.technology",
         "why_boycott": "Siemens is deeply involved in the building of israeli infrastructure with billions in contracts. Siemens also invests in israeli companies.",
         "more": "Don't buy Siemens products.Don't work for Siemens."
     },
     {
         "product_name": "Siemens",
         "boycott": true,
+        "about": "SiemensA technology company that builds smart infrastructure, medical equipment, and appliances amongst other engineered products.technology",
         "why_boycott": "Siemens is deeply involved in the building of israeli infrastructure with billions in contracts. Siemens also invests in israeli companies.",
         "more": "Don't buy Siemens products.Don't work for Siemens."
     },
     {
         "product_name": "Puma",
         "boycott": true,
+        "about": "PumaPuma is a German sportswear manufacturer and retailer sponsors athletes and teams in various sports.fashion",
         "why_boycott": "Puma is the main sponsor of the Israel Football Association (IFA), which includes teams in Israel\u2019s illegal settlements on occupied Palestinian land.",
         "more": "Don't buy Puma products until they stop sponsoring IFA and Israeli teams opperating in illegal settlements.Don't work for Puma."
     },
     {
         "product_name": "Puma",
         "boycott": true,
+        "about": "PumaPuma is a German sportswear manufacturer and retailer sponsors athletes and teams in various sports.fashion",
         "why_boycott": "Puma is the main sponsor of the Israel Football Association (IFA), which includes teams in Israel\u2019s illegal settlements on occupied Palestinian land.",
         "more": "Don't buy Puma products until they stop sponsoring IFA and Israeli teams opperating in illegal settlements.Don't work for Puma."
     },
     {
         "product_name": "Ahava",
         "boycott": true,
+        "about": "AhavaDead Sea mineral products.cosmetics",
         "why_boycott": "Ahava is an Israeli company which operates its manufacturing facilities in Occupied Palestine, stealing resources from the Dead Sea.",
         "more": "Don't buy Ahava products.Don't sell Ahava products."
     },
     {
         "product_name": "Sabra",
         "boycott": true,
+        "about": "SabraNestle is the largest public food company in the world.food",
         "why_boycott": "Osem is an israeli food manufacturer which operates in Occupied Palestine. Nestle owns a controlling stake in Osem.",
         "more": "Avoid Nestle products until they divest all operations in Occupied Palestine.Especially avoid any Osem brands such as Sabra Salads and others which can be found via the wikipedia page in the source."
     },
     {
         "product_name": "Intel",
         "boycott": true,
+        "about": "IntelComputer technology companytechnology",
         "why_boycott": "Intel Invests heavily in israel including in towns stolen from Palestinians",
         "more": "Don't use Intel productsDon't work for IntelIf you are a company decision maker, find alternatives to Intel products"
     },
     {
         "product_name": "Google",
         "boycott": true,
+        "about": "GoogleComputer technology companytechnology",
         "why_boycott": "Google and Amazon jointly won the Project Nimbus contract to provide cloud services to the Israeli military. This is a $1.2bn contract that will be used to continue the oppression of Palestinians.",
         "more": "Only use free Google products and if there is no alternativeDon't click on Google adsDon't spend on Google ads or use Google adsenseDon't buy Google productsDon't work for Google"
     },
     {
         "product_name": "Amazon",
         "boycott": true,
+        "about": "AmazonComputer technology companytechnology",
         "why_boycott": "Amazon is investing $7.2bn in data centers in israel via AWS",
         "more": "Don't spend money on amazon products including AWSDo not work for AmazonDo not buy Kindle books and other content from AmazonCancel your Amazon prime membership"
     }

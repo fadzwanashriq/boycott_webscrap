@@ -36,6 +36,7 @@ for search_term in search_terms:
             result = {
                 "product_name": product_name,
                 "boycott": boycott,
+                "about": about_product,
                 "why_boycott": why_boycott,
                 "more": more
             }
@@ -48,11 +49,14 @@ for search_term in search_terms:
         result = {
                 "product_name": search_term.title(),
                 "boycott": boycott,
+                "about": "",
                 "why_boycott": "",
                 "more": ""
         }
     results.append(result)
-
+about_product = ""
+why_boycott = ""
+more = ""
 with open("data.json", "w") as file:
     json.dump(results, file, indent=4)
 
