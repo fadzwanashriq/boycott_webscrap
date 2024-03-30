@@ -14,11 +14,11 @@
         "more": ""
     },
     {
-        "product_name": "Milo",
-        "boycott": false,
-        "about": "",
-        "why_boycott": "",
-        "more": ""
+        "product_name": "HP",
+        "boycott": true,
+        "about": "HPIT company who develop hardware and software for consumers, enterprise and government.technology",
+        "why_boycott": "Hewlett Packard runs the biometric ID system that Israel uses to restrict Palestinian movement as well as other systems for the IDF.",
+        "more": "Avoid buying HP products.Don't work for HP."
     },
     {
         "product_name": "Siemens",
@@ -28,11 +28,11 @@
         "more": "Don't buy Siemens products.Don't work for Siemens."
     },
     {
-        "product_name": "Siemens",
+        "product_name": "AXA",
         "boycott": true,
-        "about": "SiemensA technology company that builds smart infrastructure, medical equipment, and appliances amongst other engineered products.technology",
-        "why_boycott": "Siemens is deeply involved in the building of israeli infrastructure with billions in contracts. Siemens also invests in israeli companies.",
-        "more": "Don't buy Siemens products.Don't work for Siemens."
+        "about": "AXAAXA is a French multinational insurance firm.insurancefinance",
+        "why_boycott": "AXA continues to invest in Israeli banks which are complicit in Israels occupation and apartheid in Palestine.",
+        "more": "Don't take insurance from Axa.If you already have AXA insurance, switch as soon as you can.Don't work for AXA."
     },
     {
         "product_name": "Puma",
@@ -42,11 +42,11 @@
         "more": "Don't buy Puma products until they stop sponsoring IFA and Israeli teams opperating in illegal settlements.Don't work for Puma."
     },
     {
-        "product_name": "Puma",
+        "product_name": "SodaStream",
         "boycott": true,
-        "about": "PumaPuma is a German sportswear manufacturer and retailer sponsors athletes and teams in various sports.fashion",
-        "why_boycott": "Puma is the main sponsor of the Israel Football Association (IFA), which includes teams in Israel\u2019s illegal settlements on occupied Palestinian land.",
-        "more": "Don't buy Puma products until they stop sponsoring IFA and Israeli teams opperating in illegal settlements.Don't work for Puma."
+        "about": "SodaStreamIsrael-based consumer home carbonation brand.drinksmanufacturerhousehold",
+        "why_boycott": "SodaStream is an Israeli company which manufactured its products in Occupied Palestine. Now owned by Pepsico after a $3.2b acquisition. It since moved its factory from the West Bank to main Israel, however is still subject to boycott for its firing of 60 Palestinian workers and dark history.",
+        "more": "Don't buy Sodastream devices.Don't sell Sodastream devices."
     },
     {
         "product_name": "Ahava",
