@@ -1,2 +1,12 @@
 nestle
 milo
+HP
+Siemens
+AXA
+Puma
+SodaStream
+Ahava
+Sabra
+Intel
+Google
+Amazon

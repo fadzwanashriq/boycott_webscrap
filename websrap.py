@@ -8,7 +8,7 @@ with open("product.txt","r") as file:
 results = []
 
 for search_term in search_terms:
-    search_term = search_term.strip()
+    search_term = search_term.strip().lower()
     # URL of the website to scrape
     url = f"https://boycott.thewitness.news/target/{search_term}"
 
